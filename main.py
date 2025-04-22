@@ -1,2 +1,3 @@
-print('hello word')
+for _ in range(3):
+    print('hello word!')
 
